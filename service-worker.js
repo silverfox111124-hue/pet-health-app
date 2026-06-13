@@ -1,9 +1,10 @@
-const CACHE_NAME = "pet-health-note-v9";
+const CACHE_NAME = "pet-health-note-v11";
 const FILES = [
   "./",
   "./index.html",
   "./styles.css",
   "./app.js",
+  "./guide.js",
   "./manifest.webmanifest",
   "./assets/icon.svg"
 ];
